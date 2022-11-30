@@ -1,0 +1,44 @@
+body {
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    color:white;
+    background-image:url("https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366__480.jpg");
+    background-size:cover;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+color: white   ;
+font-style: italic; 
+}
+p{
+    font-weight:bold;
+}
+#start{
+    color:goldenrod;
+    background-color:grey;
+    width:150px;
+    margin:3px;
+    border:none;
+    border-radius:7px;
+    padding:5px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+#newcard{
+    display:block;
+    color:goldenrod;
+    background-color:grey;
+    width:150px;
+    margin:3px;
+    margin-left:185px;
+    border:none;
+    border-radius:7px;
+    padding:5px;
+    font-weight:bold;
+    cursor:pointer;
+}
